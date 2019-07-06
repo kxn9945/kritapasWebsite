@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kritapasWebsite/static/css/main.2cce8147.chunk.css",
+    "main.js": "/kritapasWebsite/static/js/main.128bbe5e.chunk.js",
+    "main.js.map": "/kritapasWebsite/static/js/main.128bbe5e.chunk.js.map",
+    "runtime~main.js": "/kritapasWebsite/static/js/runtime~main.af174ced.js",
+    "runtime~main.js.map": "/kritapasWebsite/static/js/runtime~main.af174ced.js.map",
+    "static/js/2.b41502e9.chunk.js": "/kritapasWebsite/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/kritapasWebsite/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/kritapasWebsite/index.html",
+    "precache-manifest.2fe590d43caf77afbccb8ca94d575152.js": "/kritapasWebsite/precache-manifest.2fe590d43caf77afbccb8ca94d575152.js",
+    "service-worker.js": "/kritapasWebsite/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/kritapasWebsite/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/kritapasWebsite/static/media/logo.5d5d9eef.svg"
+  }
+}
